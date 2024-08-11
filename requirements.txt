@@ -1,0 +1,4 @@
+mem0ai
+python-dotenv
+langgraph
+langchain-openai
